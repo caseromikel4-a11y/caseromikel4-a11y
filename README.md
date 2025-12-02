@@ -5,16 +5,6 @@ En GitHub comparto proyectos, scripts y todo lo relacionado con sistemas, redes 
 
 ---
 
-## 🔭 Actualmente estoy haciendo
-- Control y gestión de comunidades en Discord.
-- Experimentando con scripts y automatizaciones en sistemas y redes.
-- Creando trucos de magia para sorprender a mis amigos y comunidad.
-
-## 🌱 Actualmente estoy aprendiendo
-- Nuevas herramientas de administración de sistemas.
-- Técnicas avanzadas de ciberseguridad y redes.
-- Nuevos trucos de magia digital para streaming y contenido online.
-
 ## 💻 Habilidades Técnicas
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -22,9 +12,9 @@ En GitHub comparto proyectos, scripts y todo lo relacionado con sistemas, redes 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## 🌟 Proyectos Destacados
-- **Configurar pequeños servidores de Minecraft**: Montaje y gestión de servidores para jugar con amigos o comunidades pequeñas.
+- **[Configurar pequeños servidores de Minecraft](#)**: Montaje y gestión de servidores para jugar con amigos o comunidades pequeñas.
 - **[Bots de Discord](#)**: Bots para gestionar comunidades y mejorar la experiencia de los usuarios.
-- **[Trucos de magia digital](#)**: Ideas y efectos mágicos adaptados al mundo digital.
+- **[Trucos de magia](#)**: Ideas y efectos mágicos
 
 ## 📫 Contáctame
 - Email: [caseromikel4@gmail.com](mailto:caseromikel4@gmail.com)
