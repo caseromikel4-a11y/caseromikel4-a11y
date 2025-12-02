@@ -1,7 +1,6 @@
 # ¡Hola! 👋 Soy MagoMaik
 
 Soy Técnico en Sistemas Microinformáticos y Redes, apasionado por la tecnología, la comunidad y… ¡la magia! 🪄  
-En GitHub comparto proyectos, scripts y todo lo relacionado con sistemas, redes y automatización. Además, me encanta entretener a la gente con trucos de magia y moderar comunidades como Discord.  
 
 ---
 
